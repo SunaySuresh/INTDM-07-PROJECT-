@@ -1,4 +1,4 @@
-# Sunay
+# Student Performance Analysis
 This data set consists of the marks secured by the students in various subjects. 
 Let's try to understand the influence of the parents background, test preparation etc on students performance.
 Why is it important to analyze student performance? 
